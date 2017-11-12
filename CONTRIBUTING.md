@@ -1,6 +1,6 @@
 ### Submitting issues
 
-**Do not open feature requests.** I just do not have the time.
+**Be aware when opening feature requests:** I do not have the time to implement them! Your request can just be discussed and collected here for the future or other contributors.
 
 **Do not open issues because web pages are broken as a result of uMatrix blocking stuff because of your ruleset.** The issue is with your ruleset, not uMatrix.
 
